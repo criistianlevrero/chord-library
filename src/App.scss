@@ -1,0 +1,28 @@
+.song {
+  max-width:600px;
+  margin: 0 auto;
+  font-family: 'Zilla Slab', serif;
+}
+
+
+p {
+  font-size: 1.25rem;
+}
+
+
+.chord {
+  display: inline;
+  vertical-align: 30px;
+  span {
+    margin: 0.25rem calc(var(--element-width)/2 * -1);
+    padding: 0 0.25rem;
+    background: var(--chord-color);
+    border: 0.25rem solid var(--chord-color);
+    border-radius: 1rem;
+    color: #2d2d2d;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 0.75rem;
+    --chord-color: #e3e3e3;
+  }
+}

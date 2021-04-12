@@ -1,0 +1,34 @@
+{
+    "data": {
+        "name": "Tu amor",
+        "author": ["Charly García", "Pedro Aznar"]
+    },
+    "chords":[
+        {
+            "name": "A#",
+            "struscture": [false, 0, 1, 1, 0, 3]
+        },
+        {
+            "name": "C",
+            "struscture": [false, 3, 2, 0, 1, 0]
+        },        {
+            "name": "Dm",
+            "struscture": [false, false, 0, 2, 3, 2]
+        }
+    ],
+    "cancion": [
+        {
+            "name": "intro",
+            "fraces": [
+                {
+                    "letra": "Si supieras cuanto te quiero mi negra!! tan solo esooo!!!",
+                    "acordes":[
+                        ["A#", 0],
+                        ["C", 2],
+                        ["Dm", 3]
+                    ]
+                }
+            ]
+        }
+    ]
+}
